@@ -1,5 +1,4 @@
-##
-
+# Let's go
 ## 开发
 [editor on GitHub](https://github.com/itsxtt/itsxtt.github.io/blob/main/test.md) 
 ## 生活
